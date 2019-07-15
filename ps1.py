@@ -1,11 +1,3 @@
-################################################################################
-## 6.0002 Spring 2019
-## Problem Set 1
-## Written By: habadio, advaith
-## Name: Shirin Amouei
-## Collaborators: None
-## Time: 18:00
-
 
 # Problem 1
 class State():
